@@ -1,5 +1,5 @@
 /**
- * Main entry point for the deno-flow-parser library
+ * Main entry point for the sf-flow-parser library
  * Exports all public API functions and types
  *
  * This library provides tools for parsing, manipulating, and serializing

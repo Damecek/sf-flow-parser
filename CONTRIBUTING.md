@@ -11,8 +11,8 @@ Please be respectful and considerate of others when contributing to this project
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/deno-flow-parser.git
-   cd deno-flow-parser
+   git clone https://github.com/your-username/sf-flow-parser.git
+   cd sf-flow-parser
    ```
 3. Create a new branch for your feature or bugfix:
    ```bash

@@ -17,24 +17,24 @@ A TypeScript library for parsing, manipulating, and serializing Salesforce Flow 
 
 ```bash
 # Add to your dependencies
-deno add @damecek/deno-flow-parser
+deno add @damecek/sf-flow-parser
 
 # Or import directly in your code
-import { parse, stringify } from "jsr:@damecek/deno-flow-parser";
+import { parse, stringify } from "jsr:@damecek/sf-flow-parser";
 ```
 
 ### From GitHub
 
 ```typescript
-import {parse, stringify} from "https://raw.githubusercontent.com/damecek/deno-flow-parser/main/src/main.ts";
+import {parse, stringify} from "https://raw.githubusercontent.com/damecek/sf-flow-parser/main/src/main.ts";
 ```
 
 ### From Local Clone
 
 ```bash
 # Clone the repository
-git clone https://github.com/damecek/deno-flow-parser.git
-cd deno-flow-parser
+git clone https://github.com/damecek/sf-flow-parser.git
+cd sf-flow-parser
 
 # Import in your code
 import { parse, stringify } from "./src/main.ts";
@@ -45,7 +45,7 @@ import { parse, stringify } from "./src/main.ts";
 ### Basic Usage
 
 ```typescript
-import {parseFromFile, stringifyToFile} from "@damecek/deno-flow-parser";
+import {parseFromFile, stringifyToFile} from "@damecek/sf-flow-parser";
 
 // Parse a Flow XML file
 const flow = parseFromFile("path/to/flow.xml");
@@ -66,7 +66,7 @@ import {
     findFlowNodeByName,
     findParentFlowNodes,
     getConnectors
-} from "@damecek/deno-flow-parser";
+} from "@damecek/sf-flow-parser";
 
 // Parse a Flow XML file
 const flow = parseFromFile("path/to/flow.xml");
@@ -130,8 +130,8 @@ stringifyToFile(flow, "path/to/modified-flow.xml");
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/damecek/deno-flow-parser.git
-   cd deno-flow-parser
+   git clone https://github.com/damecek/sf-flow-parser.git
+   cd sf-flow-parser
    ```
 
 ### Running Tests

@@ -1,7 +1,7 @@
 /**
  * Advanced example: Adding a decision node to a Flow
  *
- * This example demonstrates more advanced usage of the deno-flow-parser library:
+ * This example demonstrates more advanced usage of the sf-flow-parser library:
  * - Creating a new decision node
  * - Inserting it into an existing Flow
  * - Rerouting connections between nodes

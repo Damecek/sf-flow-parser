@@ -1,10 +1,10 @@
 {
-  "name": "@damecek/deno-flow-parser",
+  "name": "@damecek/sf-flow-parser",
   "version": "0.1.0",
   "description": "A TypeScript library for parsing, manipulating, and serializing Salesforce Flow XML files in Deno",
   "author": "damecek",
   "license": "MIT",
-  "repository": "https://github.com/damecek/deno-flow-parser",
+  "repository": "https://github.com/damecek/sf-flow-parser",
   "tasks": {
     "dev": "deno run main.ts",
     "test": "deno test --allow-read --allow-write",

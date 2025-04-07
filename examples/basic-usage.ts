@@ -1,7 +1,7 @@
 /**
- * Basic usage example for deno-flow-parser
+ * Basic usage example for sf-flow-parser
  *
- * This example demonstrates the basic functionality of the deno-flow-parser library:
+ * This example demonstrates the basic functionality of the sf-flow-parser library:
  * - Parsing a Flow XML file
  * - Accessing Flow properties
  * - Finding and analyzing Flow nodes
