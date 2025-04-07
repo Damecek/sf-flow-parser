@@ -1,9 +1,0 @@
-{
-  "name": "deno-flow-parser",
-  "version": "1.0.0",
-  "description": "Salesforce Flow Parser for Deno",
-  "private": true,
-  "dependencies": {
-    "@salesforce/types": "^1.3.0"
-  }
-}
