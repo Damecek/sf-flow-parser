@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sf-flow-parser-logo.png" alt="Deno Flow Parser Logo" width="400"/>
+  <img src="assets/sf-flow-parser-logo.png" alt="Deno Flow Parser Logo" width="300px"/>
 </p>
 
 # Deno Flow Parser
